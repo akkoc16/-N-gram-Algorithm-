@@ -1,9 +1,3 @@
-;Mehmet Enver Akkoç
-;150160528
-;Nurettin Kağan Çocalak
-;150160529
-;Ahmet Serkan Göktaş
-;150160122
 
 segment .data
 sizeOne	DD 0
